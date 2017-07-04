@@ -1,0 +1,2 @@
+# logicstic
+base on scrapy
